@@ -1,0 +1,13 @@
+body{
+    overflow-y: hidden;
+    overflow-x: hidden;
+}
+.add-form{
+    margin-bottom: 30px;
+    background-color: beige;
+}
+.element-container {
+    contain: size layout;
+
+  }
+  
